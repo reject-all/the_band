@@ -1,0 +1,19 @@
+Thành phần website phổ biến:
+1. Header
+2. Navigation: Điều hướng, nó chính là phần Menu trên thanh header
+3. Breadcrumb: Có nghĩa là cái map chỉ cho bạn biết bạn đang ở đâu (Có web có web không) - Trang Chủ => Khóa Học => HTML, CSS
+4. Sidebar / Sub-Navigation: 1 thanh bar thường được đặt ở bên trái hoặc bên phải
+5. Slider / Banner
+6. Content
+7. Footer
+
+Thành phần website The Band:
+1. Header
+2. Navigation
+3. Slider
+4. Content
+    a. About
+    b. Tour / Buy Ticket
+    c. Contact
+    d. Map
+5. Footer
